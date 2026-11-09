@@ -1,0 +1,9 @@
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\bin\Debug\Datos.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\bin\Debug\Datos.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\obj\Debug\Datos.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\obj\Debug\Datos.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\bin\Debug\entidade.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\bin\Debug\entidade.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Datos\obj\Debug\Datos.csproj.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Datos.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\entidade.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\entidade.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Panamá\portafolio hpa 3\laboratorio3\labCapas\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
