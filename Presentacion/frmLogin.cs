@@ -1,47 +1,62 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using entidade;
+﻿using entidade;
 using Negocio;
+using System;
+using System.Windows.Forms;
 
 namespace Presentacion
 {
-    public partial class frmLogin : Form
+    /// <summary>
+    /// Formulario de login (Vista del MVP). No tiene lógica de negocio.
+    /// </summary>
+    public partial class frmLogin : Form, ILoginVista
     {
+        private readonly Loginpresen _presentador;
+
+        public event EventHandler IniciarSesion;
+
         public frmLogin()
         {
             InitializeComponent();
+            txtPassword.UseSystemPasswordChar = true;  // oculta la contraseña
+            AcceptButton = btnIniciarSesion;           // Enter = iniciar sesión
+            _presentador = new Loginpresen(this, new N_usuarios());
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
+        public string Usuario => txtusuarios.Text.Trim();
 
-        }
+        public string Password => txtPassword.Text;
 
+        /// <summary>Avisa al presentador que se presionó el botón.</summary>
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
-            string strUsuario = txtusuarios.Text.Trim();
-            string strPassword = txtPassword.Text.Trim();
-            E_usuarios usuario = N_usuarios.Login(strUsuario, strPassword);
+            IniciarSesion?.Invoke(this, EventArgs.Empty);
+        }
 
-            if (usuario != null && usuario.id > 0)
+        public void MostrarError(string mensaje)
+        {
+            MessageBox.Show(mensaje, "Error de Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
+
+        public void AbrirPrincipal(E_usuarios usuario)
+        {
+            frmPrincipal principal = new frmPrincipal(usuario);
+
+            principal.FormClosed += (s, args) =>
             {
-                MessageBox.Show("¡Bienvenido, " + usuario.dsUsuario + "!", "Login Exitoso",
-                    MessageBoxButtons.OK, MessageBoxIcon.Information);
-                this.Hide();
-                new frmPrincipal().Show();
-            }
-            else
-            {
-                MessageBox.Show("Usuario o contraseña incorrectos.", "Error de Login",
-                    MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+                if (principal.CerroSesion)
+                {
+                    txtusuarios.Clear();
+                    txtPassword.Clear();
+                    Show();
+                }
+                else
+                {
+                    Close();
+                }
+            };
+
+            Hide();
+            principal.Show();
         }
     }
 }

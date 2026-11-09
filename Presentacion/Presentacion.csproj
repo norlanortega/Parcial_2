@@ -58,6 +58,10 @@
     <Compile Include="frmPrincipal.Designer.cs">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="ILoginVista.cs" />
+    <Compile Include="IPrincipalVista.cs" />
+    <Compile Include="Loginpresen.cs" />
+    <Compile Include="PrincipalPresentador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmLogin.resx">

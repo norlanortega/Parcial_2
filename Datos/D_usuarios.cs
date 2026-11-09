@@ -1,45 +1,40 @@
 ﻿using entidade;
 using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Datos
 {
-    public class D_usuarios:D_conexion
+ 
+    public class D_Usuario : D_conexion
     {
-        public static E_usuarios Login(string strUsuario, string strPassword)
+     
+        public static E_usuarios ObtenerPorUsuario(string strUsuario)
         {
-            try
+            using (SqlConnection conexion = new SqlConnection(cadenaConexion))
+            using (SqlCommand cmd = new SqlCommand("sp_ObtenerUsuario", conexion))
             {
-                using (SqlConnection conexion = new SqlConnection(cadenaConexion))
-                {
-                    conexion.Open();
-                    using (SqlCommand cmd = new SqlCommand("sp_ValidarLoginHash", conexion))
-                    {
-                        cmd.CommandType = CommandType.StoredProcedure;
-                        cmd.Parameters.Add("@dsUsuario", SqlDbType.VarChar, 50).Value = strUsuario;
-                        cmd.Parameters.Add("@dsPassword", SqlDbType.VarChar, 50).Value = strPassword;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Add("@dsUsuario", SqlDbType.VarChar, 50).Value = strUsuario;
 
-                        using (SqlDataReader fReader = cmd.ExecuteReader())
-                        {
-                            E_usuarios usuario = new E_usuarios();
-                            while (fReader.Read())
-                            {
-                                usuario.id = fReader.GetInt32(fReader.GetOrdinal("id"));
-                                usuario.dsUsuario = fReader.GetString(fReader.GetOrdinal("dsUsuario"));
-                            }
-                            return usuario;
-                        }
+                conexion.Open();
+
+                using (SqlDataReader fReader = cmd.ExecuteReader())
+                {
+                    if (!fReader.Read())
+                    {
+                        return null;
                     }
+
+                    return new E_usuarios
+                    {
+                        id = fReader.GetInt32(fReader.GetOrdinal("id")),
+                        dsId = fReader.GetString(fReader.GetOrdinal("dsId")),
+                        dsUsuario = fReader.GetString(fReader.GetOrdinal("dsUsuario")),
+                        dsPassword = (byte[])fReader["dsPassword"],
+                        dsEstado = Convert.ToChar(fReader["dsEstado"])
+                    };
                 }
-            }
-            catch (Exception)
-            {
-                return null;
             }
         }
     }

@@ -3,36 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\datos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\iloginvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\iloginvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\iprincipalvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\iprincipalvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\principalpresentador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\principalpresentador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\loginpresen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\loginpresen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\negocio\\n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\negocio\\igeneradorhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\igeneradorhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\negocio\\iverificadorhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\iverificadorhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\negocio\\hashsh512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\hashsh512.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\datos\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|solutionrelative:datos\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\datos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|solutionrelative:datos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79C0955-DA30-4273-940B-EE8EDD386254}|entidade\\entidade.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\entidade\\e_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79C0955-DA30-4273-940B-EE8EDD386254}|entidade\\entidade.csproj|solutionrelative:entidade\\e_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{52954123-A3A5-4D22-803C-46CC980A8C80}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\negocio\\n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C9F6A-CB7F-4499-AFDB-2B63987A2968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\n_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\datos\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AFE01BE-17E3-46BA-8C19-127CE12F0F71}|Datos\\Datos.csproj|solutionrelative:datos\\d_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D79C0955-DA30-4273-940B-EE8EDD386254}|entidade\\entidade.csproj|c:\\users\\usuario\\onedrive - universidad tecnol\u00F3gica de panam\u00E1\\portafolio hpa 3\\laboratorio3\\labcapas\\entidade\\e_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79C0955-DA30-4273-940B-EE8EDD386254}|entidade\\entidade.csproj|solutionrelative:entidade\\e_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,71 +86,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\Program.cs",
-              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\Program.cs",
-              "RelativeToolTip": "Presentacion\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Presentacion\\frmLogin.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T04:43:51.977Z",
+              "WhenOpened": "2026-11-09T06:06:13.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmPrincipal.cs [Design]",
-              "RelativeToolTip": "Presentacion\\frmPrincipal.cs [Design]",
+              "Title": "PrincipalPresentador.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\PrincipalPresentador.cs",
+              "RelativeDocumentMoniker": "Presentacion\\PrincipalPresentador.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\PrincipalPresentador.cs",
+              "RelativeToolTip": "Presentacion\\PrincipalPresentador.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T04:41:22.295Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Presentacion\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.cs",
-              "RelativeToolTip": "Presentacion\\frmLogin.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T04:32:00.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "D_usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_usuarios.cs",
-              "RelativeDocumentMoniker": "Datos\\D_usuarios.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_usuarios.cs",
-              "RelativeToolTip": "Datos\\D_usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T04:22:34.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "D_conexion.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_conexion.cs",
-              "RelativeDocumentMoniker": "Datos\\D_conexion.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_conexion.cs",
-              "RelativeToolTip": "Datos\\D_conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T04:21:56.288Z",
+              "WhenOpened": "2026-11-09T06:01:44.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IPrincipalVista.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\IPrincipalVista.cs",
+              "RelativeDocumentMoniker": "Presentacion\\IPrincipalVista.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\IPrincipalVista.cs",
+              "RelativeToolTip": "Presentacion\\IPrincipalVista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T06:00:52.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\frmPrincipal.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAuwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T05:58:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loginpresen.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\Loginpresen.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Loginpresen.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\Loginpresen.cs",
+              "RelativeToolTip": "Presentacion\\Loginpresen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T05:53:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILoginVista.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\ILoginVista.cs",
+              "RelativeDocumentMoniker": "Presentacion\\ILoginVista.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\ILoginVista.cs",
+              "RelativeToolTip": "Presentacion\\ILoginVista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T05:52:41.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Igeneradorhash.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\Igeneradorhash.cs",
+              "RelativeDocumentMoniker": "Negocio\\Igeneradorhash.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\Igeneradorhash.cs",
+              "RelativeToolTip": "Negocio\\Igeneradorhash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T05:39:36.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.cs",
               "RelativeDocumentMoniker": "Presentacion\\frmLogin.cs",
@@ -127,28 +190,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmLogin.cs",
+              "RelativeToolTip": "Presentacion\\frmLogin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:32:00.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVerificadorHash.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\IVerificadorHash.cs",
+              "RelativeDocumentMoniker": "Negocio\\IVerificadorHash.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\IVerificadorHash.cs",
+              "RelativeToolTip": "Negocio\\IVerificadorHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T05:41:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hashsh512.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\hashsh512.cs",
+              "RelativeDocumentMoniker": "Negocio\\hashsh512.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\hashsh512.cs",
+              "RelativeToolTip": "Negocio\\hashsh512.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T05:42:15.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:43:51.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "D_usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_usuarios.cs",
+              "RelativeDocumentMoniker": "Datos\\D_usuarios.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_usuarios.cs",
+              "RelativeToolTip": "Datos\\D_usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:22:34.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "N_usuarios.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\N_usuarios.cs",
               "RelativeDocumentMoniker": "Negocio\\N_usuarios.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Negocio\\N_usuarios.cs",
               "RelativeToolTip": "Negocio\\N_usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T04:04:42.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "D_conexion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\D_conexion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Datos\\D_conexion.cs",
+              "RelativeToolTip": "Datos\\D_conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:21:56.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "E_usuarios.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\entidade\\E_usuarios.cs",
               "RelativeDocumentMoniker": "entidade\\E_usuarios.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\entidade\\E_usuarios.cs",
               "RelativeToolTip": "entidade\\E_usuarios.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T04:04:22.965Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnol\u00F3gica de Panam\u00E1\\portafolio hpa 3\\laboratorio3\\labCapas\\Presentacion\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "Presentacion\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:41:22.295Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

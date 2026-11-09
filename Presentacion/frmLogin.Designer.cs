@@ -39,7 +39,6 @@
             this.txtusuarios.Name = "txtusuarios";
             this.txtusuarios.Size = new System.Drawing.Size(147, 26);
             this.txtusuarios.TabIndex = 0;
-            this.txtusuarios.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtPassword
             // 

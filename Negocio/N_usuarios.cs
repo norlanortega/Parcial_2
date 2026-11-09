@@ -1,18 +1,49 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Datos;
 using entidade;
-using Datos;
 
 namespace Negocio
 {
+    /// <summary>
+    /// Reglas de negocio del usuario. Intermediario entre Presentación y Datos.
+    /// </summary>
     public class N_usuarios
     {
-        public static E_usuarios Login(string strUsuario, string strPassword)
+        private readonly IVerificadorHash _verificadorHash;
+
+        /// <summary>Usa SHA-512 como verificador por defecto.</summary>
+        public N_usuarios() : this(new HashSHA512())
         {
-            return D_usuarios.Login(strUsuario, strPassword);
+        }
+
+        /// <summary>Permite usar otro verificador de hash.</summary>
+        public N_usuarios(IVerificadorHash verificadorHash)
+        {
+            _verificadorHash = verificadorHash;
+        }
+
+        /// <summary>
+        /// Valida usuario y contraseña. Devuelve el usuario o null si falla.
+        /// </summary>
+        public E_usuarios Login(string strUsuario, string strPassword)
+        {
+            if (string.IsNullOrWhiteSpace(strUsuario) || string.IsNullOrEmpty(strPassword))
+            {
+                return null;
+            }
+
+            E_usuarios usuario = D_Usuario.ObtenerPorUsuario(strUsuario);
+            if (usuario == null)
+            {
+                return null;
+            }
+
+            if (!_verificadorHash.VerificarHash(strPassword, usuario.dsPassword))
+            {
+                return null;
+            }
+
+            usuario.dsPassword = null;
+            return usuario;
         }
     }
 }

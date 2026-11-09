@@ -8,7 +8,7 @@ namespace Datos
 {
     public class D_conexion
     {
-        public static string cadenaConexion = "Server=.\\SQLEXPRESS;Database=db_sistema_login;Trusted_Connection=True;";
+        public static string cadenaConexion = "Server=.\\SQLEXPRESS;Database=db_sistema_login;User Id=app_login;Password=L0gin#App2026;";
 
     }
  }

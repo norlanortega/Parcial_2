@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="hashsh512.cs" />
+    <Compile Include="Igeneradorhash.cs" />
+    <Compile Include="IVerificadorHash.cs" />
     <Compile Include="N_usuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
