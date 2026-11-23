@@ -178,9 +178,8 @@ La contraseña **nunca se guarda en texto plano**. `HASHBYTES('SHA2_512', ...)` 
 </p>
 
 ### Formulario principal
-<p align="center">
-  <img src="docs/img/principal.png" alt="Formulario principal" width="500">
-</p>
+<img width="959" height="530" alt="image" src="https://github.com/user-attachments/assets/4af1109b-20fa-4697-a88a-f8b2b7a5fd9f" />
+
 
 ---
 
