@@ -4,9 +4,8 @@ Aplicación de escritorio en **C# (Windows Forms)** que implementa un sistema de
 
 > Laboratorio de la materia de Programación – Universidad Santa María La Antigua (USMA).
 
-<p align="center">
   <img src="docs/img/login.png" alt="Pantalla de login" width="420">
-</p>
+
 
 ---
 
@@ -52,9 +51,8 @@ La solución está dividida en **4 proyectos (capas)**, cada uno con una respons
 | Negocio | Biblioteca de clases (.NET Framework) | `N_Usuario` | Datos, Entidades |
 | Presentación | Aplicación de Windows Forms (.NET Framework) | `frmLogin`, `frmPrincipal` | Negocio, Entidades, Datos |
 
-<p align="center">
+
   <img src="docs/img/solucion.png" alt="Explorador de soluciones con las 4 capas" width="320">
-</p>
 
 ---
 
@@ -135,10 +133,7 @@ GO
 ### 🔒 ¿Cómo se protege la contraseña?
 La contraseña **nunca se guarda en texto plano**. `HASHBYTES('SHA2_512', ...)` genera un hash de 512 bits (64 bytes) que se almacena en una columna `VARBINARY(64)`. Al iniciar sesión, el procedimiento almacenado cifra la contraseña ingresada y la compara con el hash guardado.
 
-<p align="center">
-  <img src="docs/img/tabla-usuarios.png" alt="Tabla usuarios con la contraseña cifrada" width="700">
-</p>
-
+  <img src="docs/img/tabla-usuarios.png" alt="Tabla usuarios con la contraseña cifrada" width="700"  >
 ---
 
 ## 🚀 Instalación y ejecución
@@ -168,14 +163,14 @@ La contraseña **nunca se guarda en texto plano**. `HASHBYTES('SHA2_512', ...)` 
 ## 📸 Capturas
 
 ### Login exitoso
-<p align="center">
-  <img src="docs/img/login-exitoso.png" alt="Login exitoso" width="420">
-</p>
+
+  <img src="docs/img/login-exitoso.png" alt="Login exitoso" width="420" />
+
 
 ### Login fallido
-<p align="center">
-  <img src="docs/img/login-fallido.png" alt="Login fallido" width="420">
-</p>
+
+  <img src="docs/img/login-fallido.png" alt="Login fallido" width="420" />
+
 
 ### Formulario principal
 <img width="959" height="530" alt="image" src="https://github.com/user-attachments/assets/4af1109b-20fa-4697-a88a-f8b2b7a5fd9f" />
